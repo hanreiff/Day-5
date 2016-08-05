@@ -1,4 +1,43 @@
 body{
 
-	background-color: blue;
+	background-color: #e8b3ff;
+	width: 900px;
+	margin: 0 auto;
+}
+
+
+#morning{
+
+	
+	float:left;
+	border-style: solid;
+	border-color: green;
+	height: 200px;
+	width:250px;
+
+}
+
+#NYCDA{
+
+	
+	float: left;
+	border-style: solid;
+	border-color: green;
+	height: 200px;
+	width: 250px;
+
+}
+
+#Night{
+
+	
+	float: left;
+	border-style: solid;
+	border-color: green;
+	height:200px;
+	width: 250px;
+
+
+
+
 }
